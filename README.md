@@ -1,0 +1,3 @@
+The Live Weather Dashboard is a web application that displays real-time weather information for any city. It shows details like temperature, humidity, wind speed, and weather conditions using live data from an API. The dashboard provides an easy and interactive way for users to check current weather updates and forecasts.
+
+Built using HTML, CSS, and JavaScript, this project focuses on creating a responsive and user-friendly interface. The app fetches weather data dynamically based on user input, ensuring accurate and up-to-date information. It’s a great example of using APIs and front-end technologies to create a practical and visually appealing web tool
